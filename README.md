@@ -21,8 +21,9 @@ To do so, I created a structural Bayesian time-series model using the Causal Imp
 
 Moreover, I utilized time-series financial data of stock prices. 
 
-Ultimately, I found that Bud Light's stock price dropped by 30% over the next four months after the scandal was publicized. 
-Moreover, their stock never recovered.
+Ultimately, I found that Bud Light's stock price dropped by 20% over the next couple weeks after the advertisement campaign.
+
+It remains to be seen if their stock will recover, given that this is a recent development at the time of analysis. 
 
 For full information, please refer to my write-up from the Word Document in this Repository. 
 
